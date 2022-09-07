@@ -1,0 +1,10 @@
+#oip{
+    height: 80px;
+    width: 150px;
+}
+
+.button{
+    align-items: center;
+    text-align: center;
+    margin-top: 5px;
+}
